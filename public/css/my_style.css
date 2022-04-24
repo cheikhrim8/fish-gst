@@ -1,0 +1,6 @@
+.associations-valeur {
+    position: absolute;
+    min-width: 400px;
+    z-index: 999;
+    top: -50px;
+}
